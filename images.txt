@@ -6,3 +6,4 @@ xhofe/alist:latest
 xiaoyaliu/alist
 haroldli/xiaoya-tvbox
 amilys/embyserver
+makedie/fastapi-dls
